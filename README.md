@@ -1,4 +1,4 @@
-"REMOTE" 
+"LOCAL"
 # wild-quete5
 This repository is part of the Wild Code School journey, specifically for the fifth quest.
 
